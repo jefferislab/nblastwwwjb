@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Why"
+title: "Why?"
 group: navigation
 weight: 1
 permalink: /why/

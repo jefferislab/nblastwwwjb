@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Nblast Desktop"
+title: "NBLAST Desktop"
 description: ""
 group: navigation
 weight: 4

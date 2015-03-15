@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "How"
+title: "How?"
 description: ""
 group: navigation
 weight: 2
