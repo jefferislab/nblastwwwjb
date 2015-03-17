@@ -30,3 +30,6 @@ and https://gist.github.com/jefferis/bc07c339606c0a65b411
 
 but note that `jekyll build` needed the `--safe option`.
 
+## More details
+
+See [README-JB.md](README-JB.md) for more details.
