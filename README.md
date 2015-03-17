@@ -1,10 +1,15 @@
 # nblastwwwjb
 Presently live at:
 
-nblastwwwjb
+http://flybrain.mrc-lmb.cam.ac.uk/si/nblast/www/
 
 
 ## Test locally
+
+To check your edits you need to install jekyll. Some details here, but Ashley can probably advise.
+
+https://github.com/jefferislab/jefferislabwebsite/blob/master/README.md
+
 ```
 cd /path/to/nblastwwwjb
 jekyll serve
