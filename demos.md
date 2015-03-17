@@ -33,17 +33,21 @@ Traced neurons can then be used as a query for NBLAST online (detailed run throu
 ## Exploring Neuron Clusters
 
 Starting from a search for a brain region (the AMMC) on the Virtual Fly Brain website we show how to look at structurally related neurons in 3D in your browser.
+
 <iframe width="480" height="360" src="https://www.youtube.com/embed/YFsxjkdr5y8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## NBLAST Desktop
 
 Assuming you have a neuron tracing, here is how to find the most similar neuron in a database in R using the [nat.nblast](https://github.com/jefferislab/nat.nblast) package.
+
 <iframe width="480" height="360" src="https://www.youtube.com/embed/5KZIN6u2aDw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Here is an example of how to run code that generates some of the figures in our paper. The code for all figures is available on our [lab github repo](https://github.com/jefferislab/NBLAST_figures).
+
 <iframe width="480" height="360" src="https://www.youtube.com/embed/LJgZejabqqg?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Troubleshooting
 
 We recommend Chrome for NBLAST online, but you can also use Firefox or Safari. For Safari you must activate WebGL: Here's how.
+
 <iframe width="640" height="390" src="https://www.youtube.com/embed/u1dH9NGVFWY" frameborder="0" allowfullscreen></iframe>
