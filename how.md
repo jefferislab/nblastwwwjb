@@ -16,7 +16,7 @@ One neuron is designated the query and the other the target.
 For each query segment (defined by a midpoint and tangent vector) the nearest neighbor (using straight-forward Euclidean distance) is identified in the target neuron.
 A score for the segment pair is calculated as a function of two measurements: <span id="katexd">d</span>, the distance between the matched segments (indexed by <span id="katexi">i</span>), and <span id="katexdotprod">u_i . v_i</span>, the absolute dot product of the two tangent vectors; the absolute dot product is used because the orientation of the tangent vectors has no meaning in our data representation (see image).
 
-![Comparing neurons]({{ SITE:.JB.BASE_PATH }}/images/neuron_comparison.png)
+![Comparing neurons](../images/neuron_comparison.png)
 
 The scores are then summed over each segment pair to give a raw score, <span id="katexs">S</span>:
 <p><span id="katexscore">S = sum of f(d, u_i . v_i)</span></p>
