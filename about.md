@@ -11,7 +11,7 @@ permalink: /about/
 This website accompanies [Costa et al. (2014) NBLAST: Rapid, sensitive comparison of neuronal structure and construction of neuron family databases](http://dx.doi.org/10.1101/006346) and acts as a hub for demonstrations of the core NBLAST algorithm (package [nat.nblast](https://github.com/jefferislab/nat.nblast)), along with some features of the [NeuroAnatomy Toolbox](https://github.com/jefferis/nat).
 
 ## Contact
-For problem-solving, or for more information beyond that contained in the manuscript, please contact Greg Jefferis at jefferis \<at\> mrc-lmb \<dot\> cam \<dot\> ac \<dot\> uk.
+For problem-solving, or for more information beyond that contained in the manuscript, please contact Greg Jefferis at jefferis \<at\> mrc-lmb \<dot\> cam \<dot\> ac \<dot\> uk. Or you can try the mailing list at nblast-user \<at\> googlegroups \<dot\> com.
 
 
 ## Software / data used
