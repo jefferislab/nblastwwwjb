@@ -13,8 +13,8 @@ tagline: Fast, sensitive neuron search
 author :
   name : Jefferis Lab
   email : blah@email.test
-  github : username
-  twitter : username
+  github : jefferislab
+  twitter : gsxej
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
