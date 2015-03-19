@@ -10,7 +10,7 @@ Neural circuit mapping efforts in model organisms are generating multi-terabyte 
 ##Find out more ...
 
 * Please use this website to explore [why NBLAST might be helpful](why) in your research and [how it works](how).
-* If this piques your interest try out [NBLAST online](http://jefferislab.org/si/nblast/on-the-fly/).
+* If this piques your interest try out [NBLAST online](nblast_online).
 * Power users can run [NBLAST on their desktop](nblast_desktop).
-* We have used NBLAST to organise over 16,000 Drosophila neurons into [structural clusters](http://jefferislab.org/si/nblast/clusters/).
-* Finally, watch some [demo videos](demos), read all out about in the [paper](paper), or [contact us](contact) for help.
+* We have used NBLAST to organise over 16,000 Drosophila neurons into [structural clusters](clusters).
+* Finally, watch some [demo videos](demos), read all out about in the [paper](paper), or [contact us](about) for help.
