@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "NBLAST Desktop"
-description: ""
+description: "Installing NBLAST in your own computer"
 group: navigation
 weight: 4
 permalink: /nblast_desktop/

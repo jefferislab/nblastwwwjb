@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Demos"
-description: ""
+description: "Videos demos for NBLAST"
 group: navigation
 weight: 7
 permalink: /demos/
