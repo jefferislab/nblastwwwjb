@@ -14,11 +14,15 @@ NBLAST allows you to search for similar neurons in a variety of ways. You can us
 ![Finding neurons from neurons](../images/neuron_to_neuron.png)
 
 
-Another possibility is to use a tracing, for example, from an expression pattern or clone to run a query and find similar neurons.
+Another possibility is to use a tracing from an expression pattern or clone to run a query. 
 
-![Finding neurons from traces](../images/trace_to_neuron.png)
+![Finding neurons from traces](../images/neuron_to_trace.png)
 
-Searches can be run on the 16,129 neurons or the FlyCircuit dataset, or on your own data. You can, for example, use your own tracing of a neuron to find FlyCircuit neurons that match it.
+Default searches are run against the 16,129 neurons of the FlyCircuit dataset, but you can also use your own data. For more information, have a look at the [video demos](demos.md).
+
+
+
+
 
 
 
