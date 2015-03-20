@@ -14,7 +14,7 @@ NBLAST allows you to search for similar neurons in a variety of ways. You can us
 ![Finding neurons from neurons](../images/neuron_to_neuron.png)
 
 
-Another possibility is to use a tracing from an expression pattern or clone to run a query. 
+Another possibility is to use a tracing of a neuron, part of an expression pattern or clone to run a query. 
 
 ![Finding neurons from traces](../images/neuron_to_trace.png)
 
