@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How?"
-description: ""
+description: "How NBLAST works"
 group: navigation
 weight: 2
 permalink: /how/
