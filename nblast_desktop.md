@@ -18,3 +18,5 @@ These tools are designed as an addon for the [NeuroAnatomy Toolbox (nat)](https:
 ## Installation
 As well as development versions available from GitHub through the previous links, stable versions are periodically released to CRAN ([nat](http://cran.r-project.org/web/packages/nat/index.html) and [nat.nblast](http://cran.r-project.org/web/packages/nat.nblast/index.html)).
 These can be installed in an interactive R session via the command ``install.packages(c('nat', 'nat.nblast'))``.
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/C9arQ0Sws7k?rel=0" frameborder="0" allowfullscreen></iframe>

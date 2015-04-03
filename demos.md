@@ -39,6 +39,10 @@ An introduction to NBLAST from Greg.
 
 <iframe width="640" height="390" src="https://www.youtube.com/embed/Vn8zTEQOwmk" frameborder="0" allowfullscreen></iframe>
 
+#### Installing locally:
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cCDql94lSwI?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 
@@ -51,6 +55,10 @@ An introduction to NBLAST from Greg.
 ---
 
 ## NBLAST Desktop
+
+#### Installation
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/C9arQ0Sws7k?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ####Assuming you have a neuron tracing, here is how to find the most similar neuron in a database in R using the [nat.nblast](https://github.com/jefferislab/nat.nblast) package.
 
