@@ -16,8 +16,18 @@ These tools are designed as an addon for the [NeuroAnatomy Toolbox (nat)](https:
 
 
 ## Installation
+
+### Prerequisites
+
+* [R](http://r-project.org)
+* [RStudio](http://www.rstudio.com) (recommended)
+* [XQuartz](http://xquartz.macosforge.org/landing/) (if on Mac OS X > 10.6, for 3D plots)
+
 As well as development versions available from GitHub through the previous links, stable versions are periodically released to CRAN ([nat](http://cran.r-project.org/web/packages/nat/index.html) and [nat.nblast](http://cran.r-project.org/web/packages/nat.nblast/index.html)).
-These can be installed in an interactive R session via the command ``install.packages(c('nat', 'nat.nblast'))``.
+These can be installed in an interactive R session via the following command:
+{% highlight r %}
+install.packages(c('nat', 'nat.nblast'))
+{% endhighlight %}
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/C9arQ0Sws7k?rel=0" frameborder="0" allowfullscreen></iframe>
 
