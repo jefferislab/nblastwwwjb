@@ -27,3 +27,7 @@ Images from [FlyCircuit](http://flycircuit.tw) ([Chiang et al., 2011](http://dx.
 ## Preparing own data for use with NBLAST
 Protocols for [immunostaining and imaging fly brains](http://cshprotocols.cshlp.org/content/2013/4/pdb.prot071720.full), as well as [registration of the resulting images](http://cshprotocols.cshlp.org/content/2013/4/pdb.prot071738.full) are available from Cold Spring Harbor Protocols.
 We recommend the use of [Simple Neurite Tracer](http://fiji.sc/Simple_Neurite_Tracer) for tracing neurons from the acquired images, detailed instructions for which are available from [here](http://fiji.sc/Simple_Neurite_Tracer:_Step-By-Step_Instructions).
+
+### Examples with datasets from other species
+We have previously explored neuronal data from other species using NBLAST and have made these analyses available through our [nat.examples](https://github.com/jefferis/nat.examples) R package.
+In particular, we have looked at [monarch butterfly neurons](https://github.com/jefferis/nat.examples/tree/master/07-insectbraindb) from [tedore.net](http://tedore.net) and the [zebrafish olfactory projectome](https://github.com/jefferis/nat.examples/tree/master/05-miyasaka2014) from [Miyasaka et al. _Olfactory projectome in the zebrafish forebrain revealed by genetic single-neuron labelling_, Nature Communications](http://dx.doi.org/10.1038/ncomms4639).
