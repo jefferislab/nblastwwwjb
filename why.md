@@ -18,7 +18,7 @@ Another possibility is to use a tracing of a neuron, part of an expression patte
 
 ![Finding neurons from traces](../images/neuron_to_trace.png)
 
-Default searches are run against the 16,129 neurons of the FlyCircuit dataset, but you can also use your own data. For more information, have a look at the [video demos](demos.md).
+Default searches are run against the 16,129 neurons of the FlyCircuit dataset, but you can also use your own data. For more information, have a look at the [video demos](../demos).
 
 
 
