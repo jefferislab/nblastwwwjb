@@ -12,7 +12,7 @@ We have developed a simple web-app for comparing neurons using our NBLAST algori
 
 Look at the video demos [here](../demos/#nblast-online) to see how to use the app.
 
-![NBLASTing neurons online](../images/nblast_online.png)
+[![NBLASTing neurons online](../images/nblast_online.png)](http://jefferislab.org/si/nblast/on-the-fly/)
 
 ## Install locally
 <iframe width="640" height="360" src="https://www.youtube.com/embed/cCDql94lSwI?rel=0" frameborder="0" allowfullscreen></iframe>
