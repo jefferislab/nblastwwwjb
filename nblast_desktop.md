@@ -60,8 +60,9 @@ plot(dkcs)
 {% highlight r %}
 # Plot neurons in those clusters in 3D (with matching colours)
 open3d()
-plot3d(hckcs, k=3, db=kcs20)
-par3d(userMatrix=structure(c(0.89571213722229, 0.196490913629532, -0.398862272500992, 0, -0.438298493623734, 0.541087925434113, -0.717717468738556, 0, 0.074794590473175, 0.817688941955566, 0.570780634880066, 0, 0, 0, 0, 1), .Dim = c(4L, 4L)))
+plot3d(hckcs, k=3, db=kcs20, soma=T)
+par3d(userMatrix=diag(c(1,-1,-1,1), 4))
+plot3d(MBL.surf, alpha=.1)
 {% endhighlight %}
 
 ![Kenyon cell clustering in 3D](../images/kc_clustering_3d.png)
