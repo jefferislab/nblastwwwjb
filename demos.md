@@ -29,22 +29,28 @@ An introduction to NBLAST from Greg.
 
 - - -
 
-####Detailed example of making a tracing of a part of a group of neurons in registered image data downloaded from [virtualflybrain.org](http://www.virtualflybrain.org/site/vfb_site/image_data_downloads.htm).
+#### Example of searching for related neurons with a neuron id, showing the links from the results to [virtualflybrain.org](http://www.virtualflybrain.org).
+
+<iframe width="640" height="390" src="http://youtu.be/jqWwQusCTJI" frameborder="0" allowfullscreen></iframe>
+
+- - -
+
+#### Detailed example of making a tracing of a part of a group of neurons in registered image data downloaded from [virtualflybrain.org](http://www.virtualflybrain.org/site/vfb_site/image_data_downloads.htm).
 
 <iframe width="640" height="390" src="https://www.youtube.com/embed/xdqAb1fC91I" frameborder="0" allowfullscreen></iframe>
 
 - - -
 
-####Traced neurons can then be used as a query for NBLAST online (detailed run through).
+#### Traced neurons can then be used as a query for NBLAST online (detailed run through).
 
 <iframe width="640" height="390" src="https://www.youtube.com/embed/Vn8zTEQOwmk" frameborder="0" allowfullscreen></iframe>
 
-#### Installing locally:
+- - -
+#### Detailed example of making a skeletonised image from a lineage clone, with registered image data downloaded from [virtualflybrain.org](http://www.virtualflybrain.org/site/vfb_site/image_data_downloads.htm) and using that for an NBLAST search.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/cCDql94lSwI?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="http://youtu.be/pLk-GSCmg5U" frameborder="0" allowfullscreen></iframe>
 
-
----
+- - -
 
 ## Exploring Neuron Clusters
 
@@ -52,7 +58,14 @@ An introduction to NBLAST from Greg.
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/YFsxjkdr5y8?rel=0" frameborder="0" allowfullscreen></iframe>
 
----
+- - -
+## NBLAST online
+
+#### Installing locally:
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cCDql94lSwI?rel=0" frameborder="0" allowfullscreen></iframe>
+
+- - -
 
 ## NBLAST Desktop
 
@@ -64,7 +77,7 @@ An introduction to NBLAST from Greg.
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/5KZIN6u2aDw?rel=0" frameborder="0" allowfullscreen></iframe>
 
----
+- - -
 
 ####Here is an example of how to run code that generates some of the figures in our paper. The code for all figures is available on our [lab github repo](https://github.com/jefferislab/NBLAST_figures).
 
