@@ -24,7 +24,7 @@ An introduction to NBLAST from Greg.
 <iframe width="480" height="360" src="https://www.youtube.com/embed/FnC64OLTsp8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-####Detailed example of using a neuron mentioned in a [recent paper on sleep](http://dx.doi.org/10.1016/j.cub.2012.09.008) by its flycircuit identifier to find structurally related neurons.
+####Detailed example of using a neuron mentioned in a [recent paper on sleep](http://dx.doi.org/10.1016/j.cub.2012.09.008) by its FlyCircuit identifier to find structurally related neurons.
 
 <iframe width="640" height="390" src="https://www.youtube.com/embed/KmTznynrwyk" frameborder="0" allowfullscreen></iframe>
 
@@ -32,6 +32,11 @@ An introduction to NBLAST from Greg.
 ####Example of searching for related neurons with a neuron id, showing the links from the results to [virtualflybrain.org](http://www.virtualflybrain.org).
 
 <iframe width="640" height="390" src="http://www.youtube.com/embed/jqWwQusCTJI" frameborder="0" allowfullscreen></iframe>
+
+---
+####Searching for GMR GAL4 lines that label specific FlyCircuit neurons
+
+<iframe width="640" height="390" src="https://youtu.be/lJBKPAXPJB4" frameborder="0" allowfullscreen></iframe>
 
 ---
 
