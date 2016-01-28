@@ -36,7 +36,7 @@ An introduction to NBLAST from Greg.
 
 #### Searching for GMR GAL4 lines that label specific FlyCircuit neurons
 
-<iframe width="640" height="390" src="https://www.youtube.com/embed/lJBKPAXPJB4" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="http://www.youtube.com/embed/lJBKPAXPJB4" frameborder="0" allowfullscreen></iframe>
 
 ---
 
