@@ -8,9 +8,11 @@ permalink: /paper/
 ---
 {% include JB/setup %}
 
-A pre-print version of the NBLAST paper is currently available from the [bioRxiv: Costa et al. NBLAST: Rapid, sensitive comparison of neuronal structure and construction of neuron family databases](http://dx.doi.org/10.1101/006346).
+The NBLAST paper is available from [Neuron: Costa et al. NBLAST: Rapid, sensitive comparison of neuronal structure and construction of neuron family databases](http://dx.doi.org/10.1016/j.neuron.2016.06.012).
 
-Full source code for the figures presented in the paper is available on the [jefferislab/NBLAST_figures](https://github.com/jefferislab/NBLAST_figures/) github repository.
+A pre-print version of the NBLAST paper is available from [bioRxiv: Costa et al. NBLAST: Rapid, sensitive comparison of neuronal structure and construction of neuron family databases](http://dx.doi.org/10.1101/006346).
+
+Full source code for the figures presented in the preprint is available on the [jefferislab/NBLAST_figures](https://github.com/jefferislab/NBLAST_figures/) github repository.
 Full instructions of how to run the code are available in the repository [README](https://github.com/jefferislab/NBLAST_figures/blob/master/README.md).
 
 The combined source code and output for the panels making up each figure is available by following the links below:
