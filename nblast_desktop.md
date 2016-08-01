@@ -14,6 +14,10 @@ There is also support for all by all comparison for a group of neurons.
 This can produce a distance matrix suitable for hierarchical clustering, which is also implemented in the package.
 These tools are designed as an addon for the [NeuroAnatomy Toolbox (nat)](https://github.com/jefferis/nat) R package, which you must first install.
 
+## Data
+
+The source data for the ``nblast`` function includes the reformatted FlyCircuit neurons processed as a dotprops object (dps object). To download the data go [here](add link). To load the dps object into R follow [these](https://gist.github.com/jefferis/bbaf5d53353b3944c090) commands.
+
 
 ## Installation
 
@@ -28,8 +32,6 @@ These can be installed in an interactive R session via the following command:
 {% highlight r %}
 install.packages(c('nat', 'nat.nblast'))
 {% endhighlight %}
-
-<iframe width="480" height="360" src="https://www.youtube.com/embed/C9arQ0Sws7k?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 ## Kenyon cells example
