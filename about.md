@@ -23,6 +23,8 @@ Image registration and skeletonisation was coordinated using [nat.as](https://gi
 
 Images from [FlyCircuit](http://flycircuit.tw) ([Chiang et al., 2011](http://dx.doi.org/10.1016/j.cub.2010.11.056)) were obtained from the National Center for High-performance Computing and National Tsing Hua University, Hsinchu, Taiwan. 
 
+Images from [FlyLight](http://flweb.janelia.org/cgi-bin/flew.cgi) ([Jenett et al., 2012](http://dx.doi.org/10.1016/celrep.2012.09.011)) were obtained from the Janelia FlyLight Project Team at the Janelia Research Campus, Virginia, US.
+
 
 ## Preparing own data for use with NBLAST
 Protocols for [immunostaining and imaging fly brains](http://cshprotocols.cshlp.org/content/2013/4/pdb.prot071720.full), as well as [registration of the resulting images](http://cshprotocols.cshlp.org/content/2013/4/pdb.prot071738.full) are available from Cold Spring Harbor Protocols.
