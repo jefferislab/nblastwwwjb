@@ -16,13 +16,25 @@ These tools are designed as an addon for the [NeuroAnatomy Toolbox (nat)](https:
 
 ## Data
 
-The source data for the ``nblast`` function includes the reformatted FlyCircuit neurons processed as a dotprops object (dps object). To download the data go [here](add link)(2Gb). To load the dps object into R follow [these](https://gist.github.com/jefferis/bbaf5d53353b3944c090) commands.
+The source data for the ``nblast`` function includes the reformatted FlyCircuit neurons processed as a dotprops (aka vector cloud) objects. These are accessible as a single R object of class neuronlist names ``dps``. 
 
-The dotprops object for the GAL4 GMR lines is also available [here](addlink) (8.4Gb). After downloading, it can be loaded into R using 
+To load the dps object into R follow these commands.
+
+{% highlight r %}
+if(!require("devtools")) install.packages("devtools")
+devtools::source_gist("bbaf5d53353b3944c090", filename = "FlyCircuitStartupNat.R")
+{% endhighlight %}
+
+See https://gist.github.com/jefferis/bbaf5d53353b3944c090 for further details.
+
+You can also download the original registered image data [here](add link)(2Gb). 
+
+The dotprops data for the GMR (Janelia) GAL4 lines is also available [here](addlink) (8.4Gb). After downloading, it can be loaded into R using 
 {% highlight r %}
 dpsfl=read.neurons("path/to/flylight.dps.fcwb/", pattern = 'rda$')
 {% endhighlight %}
 
+it can then be used as a target for ``nblast`` searches.
 ## Installation
 
 ### Prerequisites
