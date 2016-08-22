@@ -16,7 +16,7 @@ These tools are designed as an addon for the [NeuroAnatomy Toolbox (nat)](https:
 
 ## Data
 
-The source data for the ``nblast`` function includes the reformatted FlyCircuit neurons processed as a dotprops (aka vector cloud) objects. These are accessible as a single R object of class neuronlist names ``dps``. 
+The source data for the ``nblast`` function includes the reformatted FlyCircuit neurons processed as a dotprops (aka vector cloud) objects. These are accessible as a single R object of class neuronlist named ``dps``. 
 
 To load the dps object into R follow these commands.
 
