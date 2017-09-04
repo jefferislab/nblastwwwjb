@@ -27,9 +27,9 @@ devtools::source_gist("bbaf5d53353b3944c090", filename = "FlyCircuitStartupNat.R
 
 See https://gist.github.com/jefferis/bbaf5d53353b3944c090 for further details.
 
-You can also download the original registered image data [here](add link)(2Gb). 
+You can also download the original registered image data [here](http://www.virtualflybrain.org/site/vfb_site/Chiang2010.htm)(2Gb). 
 
-The dotprops data for the GMR (Janelia) GAL4 lines is also available [here](addlink) (8.4Gb). After downloading, it can be loaded into R using 
+The dotprops data for the GMR (Janelia) GAL4 lines is also available [here](http://flybrain.mrc-lmb.cam.ac.uk/si/nblast/flycircuit/dpscanon.rds) (8.4Gb). After downloading, it can be loaded into R using 
 {% highlight r %}
 dpsfl=read.neurons("path/to/flylight.dps.fcwb/", pattern = 'rda$')
 {% endhighlight %}
