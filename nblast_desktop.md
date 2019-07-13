@@ -29,12 +29,16 @@ See https://gist.github.com/jefferis/bbaf5d53353b3944c090 for further details.
 
 You can also download the original registered image data [here](add link)(2Gb). 
 
-The dotprops data for the GMR (Janelia) GAL4 lines is also available [here](addlink) (8.4Gb). After downloading, it can be loaded into R using 
+The dotprops data for the GMR (Janelia) GAL4 lines is also available. It can be (down)loaded into R using 
 {% highlight r %}
-dpsfl=read.neurons("path/to/flylight.dps.fcwb/", pattern = 'rda$')
+library(flycircuit)
+gmrdps<-read.neuronlistfh("http://flybrain.mrc-lmb.cam.ac.uk/si/nblast/gmrdps/gmrdps.rds", localdir=getOption('flycircuit.datadir'))
+remotesync(gmrdps, download.missing = TRUE)
+
 {% endhighlight %}
 
-it can then be used as a target for ``nblast`` searches.
+it can then be used as a target for ``nblast`` searches. You can omit the `remotesync` command in subsequent sessions where you just want to use the downloaded data. Note the download will take a while depending on your distance from Cambridge ...
+
 ## Installation
 
 ### Prerequisites
