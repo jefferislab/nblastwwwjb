@@ -12,7 +12,7 @@ Our reference implementation of NBLAST is available through the function ``nblas
 In addition to basic pairwise comparison, the package implements search of databases of neurons.
 There is also support for all by all comparison for a group of neurons.
 This can produce a distance matrix suitable for hierarchical clustering, which is also implemented in the package.
-These tools are designed as an addon for the [NeuroAnatomy Toolbox (nat)](https://github.com/jefferis/nat) R package, which you must first install.
+These tools are designed as an addon for the [NeuroAnatomy Toolbox (nat)](https://jefferis.github.io/nat/) R package, which will be installed as as dependency.
 
 ## Data
 
@@ -50,9 +50,14 @@ it can then be used as a target for ``nblast`` searches. You can omit the `remot
 As well as development versions available from GitHub through the previous links, stable versions are periodically released to CRAN ([nat](http://cran.r-project.org/web/packages/nat/index.html) and [nat.nblast](http://cran.r-project.org/web/packages/nat.nblast/index.html)).
 These can be installed in an interactive R session via the following command:
 {% highlight r %}
-install.packages(c('nat', 'nat.nblast'))
+install.packages('nat.nblast')
 {% endhighlight %}
 
+alternatively to use the latest development versions:
+
+{% highlight r %}
+devtools::install_github(c("jefferis/nat", "jefferislab/nat.nblast"))
+{% endhighlight %}
 
 ## Kenyon cells example
 Below, we briefly show how our R packages can be used to cluster Kenyon cells using NBLAST, and show that they match the neuronal types defined by lobe innervation.
