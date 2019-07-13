@@ -27,7 +27,7 @@ devtools::source_gist("bbaf5d53353b3944c090", filename = "FlyCircuitStartupNat.R
 
 See https://gist.github.com/jefferis/bbaf5d53353b3944c090 for further details.
 
-You can also download the original registered image data [here](add link)(2Gb). 
+You can also download the original registered image data [here](http://www.virtualflybrain.org/site/vfb_site/Chiang2010.htm)(2Gb). 
 
 The dotprops data for the GMR (Janelia) GAL4 lines is also available. It can be (down)loaded into R using 
 {% highlight r %}
@@ -37,7 +37,7 @@ remotesync(gmrdps, download.missing = TRUE)
 
 {% endhighlight %}
 
-it can then be used as a target for ``nblast`` searches. You can omit the `remotesync` command in subsequent sessions where you just want to use the downloaded data. Note the download will take a while depending on your distance from Cambridge ...
+it can then be used as a target for ``nblast`` searches. You can omit the `remotesync` command in subsequent sessions where you just want to use the downloaded data. Note the download (8.4Gb) will take a while depending on your distance from Cambridge ...
 
 ## Installation
 
